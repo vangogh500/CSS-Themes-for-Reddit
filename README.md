@@ -8,7 +8,7 @@ Vangogh500-CSS-Themes-for-Reddit contains custom CSS stylings for custom subredd
 
 ##Provided
 ### /r/CJEntus
-[Vangogh500-CSS-Themes-for-Reddit/stylings/rcjentus.css]: Source
+[Vangogh500-CSS-Themes-for-Reddit/stylings/rCJEntus.css]: Source
 The subreddit stylings for the esports team, CJEntus, is an attempt to build upon the design of the CJ team logo.
 A simplistic design utilizing the 3 colors of the team - red, orange, and blue - as a motif.
 
