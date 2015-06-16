@@ -16,5 +16,8 @@ A simplistic design utilizing the 3 colors of the team - red, orange, and blue -
 ####Preview:
 ![alt text](https://raw.githubusercontent.com/vangogh500/Vangogh500-CSS-Themes-for-Reddit/master/screenshots/rCJEntus.png)
 
+##Installing
+To use on your own subreddit, copy the contents of the appropriate .css file into your subreddit's stylesheet(found on www.reddit.com/r/name_of_your_subreddit/about/stylesheet).
+
 ##License
 The code is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
